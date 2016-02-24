@@ -1,6 +1,6 @@
-# Project 6 - InstagramApp
+# Project 6 - Instagram
 
-InstagramApp is a photo sharing app using Parse as its backend.
+Instagram is a photo sharing app using Parse as its backend.
 
 Time spent: **X** hours spent in total
 
